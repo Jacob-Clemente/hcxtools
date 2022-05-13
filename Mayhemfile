@@ -1,0 +1,5 @@
+project: jacob-clemente/hcxtools
+target: hcxwltool
+
+cmds:
+  - cmd: /hcxwltool -i @@ -o out
